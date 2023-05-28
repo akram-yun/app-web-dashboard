@@ -1,0 +1,50 @@
+[
+    {
+      "region": "Tanger-Tétouan-Al Hoceïma",
+      "population": 3589155
+    },
+    {
+      "region": "Oriental",
+      "population": 2282939
+    },
+    {
+      "region": "Fès-Meknès",
+      "population": 4503721
+    },
+    {
+      "region": "Rabat-Salé-Kénitra",
+      "population": 4638353
+    },
+    {
+      "region": "Béni Mellal-Khénifra",
+      "population": 1983237
+    },
+    {
+      "region": "Casablanca-Settat",
+      "population": 7357695
+    },
+    {
+      "region": "Marrakech-Safi",
+      "population": 3871061
+    },
+    {
+      "region": "Drâa-Tafilalet",
+      "population": 1429559
+    },
+    {
+      "region": "Souss-Massa",
+      "population": 3290930
+   },
+    {
+      "region": "Guelmim-Oued Noun",
+      "population": 550862
+    },
+    {
+      "region": "Laâyoune-Sakia El Hamra",
+      "population": 405210
+    },
+    {
+      "region": "Dakhla-Oued Ed Dahab",
+      "population": 106277
+    }
+  ]
